@@ -6,16 +6,16 @@
 
 ## Supposed and potential claude code - Alleged Source Leak
 
-This repository contains source code that is strcitly alleged to have been authored Anthropic for its AI-powered coding agent - however there is no proof of this. There are no credits, copyrights, licenses nor any checkin/out/release artifacts of provinance.
+This repository contains source code that is seemingly alleged to have been authored by 'Anthropic' for its AI coding agent - however there is no concrete proof of this. There are no credits, copyrights, patents, licenses nor any check-in/out/release artifacts of provenance.
 
-Nothing has been added (besides this README), removed, or changed in the code hosted here, copied from hundreds of other people who sharte the same code.
+No modifications have been made to any source files - the archive was copied from hundreds of other people who share the same code.
 
 ## This exists for...
 
-Everyone to laugh at these fools and potential crooks.
+Everyone to laugh (at fools and potential crooks)
 
 ## Disclaimer
 
-This is here for educational purposes only - but don't blame me for injuries to your ass while laughing it off!
+This repo is for educational purposes - but don't blame me for injuries to your ass while laughing it off!
 
 _I will put up two new copies of the code for every one that is taken down. Do the math before acting._
