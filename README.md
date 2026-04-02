@@ -4,7 +4,7 @@
 
 ### The value in taking this code down isn't to prevent anyone else from using so-called trade secrets, but to prevent everyone, including investors, from realizing Anthropic is potentially built on a giant pile of shit. Well, no one can put the genie back in the bottle.
 
-### If anyone at Anthropic wants to try and prove this is their own copyrighted and proprietaery code they can come and physically fight me, or take me to court - their choice. The public discovery I demand is going to be epic.
+### If anyone at Anthropic wants to try and prove this is their own copyrighted and proprietaery code they can come and physically fight me, _or take me to court - their choice. The public discovery I demand is going to be epic._
 
 ## Supposed and potential claude code - Alleged Source Leak
 
