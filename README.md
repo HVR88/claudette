@@ -1,8 +1,10 @@
 # My own preface: This is all basic and rudimentary code.
 
-## Most of it insanely laughhable, most of it not remotely original, potentially written by an overvalued company, trading on misinformation and fraud.
+### Most of it insanely laughhable, most of it not remotely original, potentially written by an overvalued company, trading on misinformation and fraud.
 
-## The value in taking this code down isn't to prevent anyone else from using so-called trade secrets, but to prevent everyone, including investors, from realizing Anthropic is potentially built on a giant pile of shit. Well, no one can put the genie back in the bottle.
+### The value in taking this code down isn't to prevent anyone else from using so-called trade secrets, but to prevent everyone, including investors, from realizing Anthropic is potentially built on a giant pile of shit. Well, no one can put the genie back in the bottle.
+
+### If anyone at Anthropic wants to try and prove this is their own copyrighted and proprietaery code they can come and physically fight me, or take me to court - their choice. The public discovery I demand is going to be epic.
 
 ## Supposed and potential claude code - Alleged Source Leak
 
